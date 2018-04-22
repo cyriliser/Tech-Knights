@@ -1,0 +1,23 @@
+D:\BACK UP\CODE WORK SPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\bin\Debug\co_op.exe
+D:\BACK UP\CODE WORK SPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\bin\Debug\co_op.pdb
+D:\BACK UP\CODE WORK SPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\bin\Debug\co_op.xml
+D:\BACK UP\CODE WORK SPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.CR1.resources
+D:\BACK UP\CODE WORK SPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.Resources.resources
+D:\BACK UP\CODE WORK SPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.vbproj.GenerateResource.Cache
+D:\BACK UP\CODE WORK SPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.exe
+D:\BACK UP\CODE WORK SPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.xml
+D:\BACK UP\CODE WORK SPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.pdb
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.exe
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.xml
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.pdb
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\bin\Debug\co_op.exe
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\bin\Debug\co_op.pdb
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\bin\Debug\co_op.xml
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.CR1_pt_5__Statistics_.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.BOD.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.CR1.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.CR1_pt2.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.CR1_pt4__Co_Op_Contact_Info_.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.CR5.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.Resources.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\co_op\co_op\obj\x86\Debug\co_op.vbproj.GenerateResource.Cache
