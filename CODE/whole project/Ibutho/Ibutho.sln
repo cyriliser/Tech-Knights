@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ibutho", "Ibutho\Ibutho.vbproj", "{B233461A-77D3-451E-A1BE-6FDC4A036E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B233461A-77D3-451E-A1BE-6FDC4A036E1D}.Debug|x86.ActiveCfg = Debug|x86
+		{B233461A-77D3-451E-A1BE-6FDC4A036E1D}.Debug|x86.Build.0 = Debug|x86
+		{B233461A-77D3-451E-A1BE-6FDC4A036E1D}.Release|x86.ActiveCfg = Release|x86
+		{B233461A-77D3-451E-A1BE-6FDC4A036E1D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

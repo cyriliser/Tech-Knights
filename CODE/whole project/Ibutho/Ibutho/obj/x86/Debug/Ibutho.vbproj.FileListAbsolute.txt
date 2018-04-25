@@ -1,0 +1,12 @@
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\bin\Debug\Ibutho.exe
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\bin\Debug\Ibutho.pdb
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\bin\Debug\Ibutho.xml
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.Main.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.Resources.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.vbproj.GenerateResource.Cache
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.exe
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.xml
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.pdb
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.LoginForm.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.Home.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.CaptureCustomer.resources
