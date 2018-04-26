@@ -38,7 +38,10 @@ Partial Class LoginForm
         Me.PasswordTextBox = New System.Windows.Forms.TextBox()
         Me.OK = New System.Windows.Forms.Button()
         Me.Cancel = New System.Windows.Forms.Button()
+        Me.LoginDS = New Ibutho.LoginDS()
+        Me.EmployeeTA = New Ibutho.LoginDSTableAdapters.EMPLOYEETableAdapter()
         CType(Me.LogoPictureBox, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.LoginDS, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'LogoPictureBox
@@ -100,6 +103,15 @@ Partial Class LoginForm
         Me.Cancel.TabIndex = 5
         Me.Cancel.Text = "&Cancel"
         '
+        'LoginDS
+        '
+        Me.LoginDS.DataSetName = "LoginDS"
+        Me.LoginDS.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
+        '
+        'EmployeeTA
+        '
+        Me.EmployeeTA.ClearBeforeFill = True
+        '
         'LoginForm
         '
         Me.AcceptButton = Me.OK
@@ -124,9 +136,12 @@ Partial Class LoginForm
         Me.TopMost = True
         Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         CType(Me.LogoPictureBox, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.LoginDS, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
+    Friend WithEvents LoginDS As Ibutho.LoginDS
+    Friend WithEvents EmployeeTA As Ibutho.LoginDSTableAdapters.EMPLOYEETableAdapter
 
 End Class
