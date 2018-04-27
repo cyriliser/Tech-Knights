@@ -21,6 +21,6 @@
     Private Sub Button3_Click(sender As System.Object, e As System.EventArgs) Handles Button3.Click
         'writes data to the database
         'loads cr1 pt 3
-        'Main.FormSetup(cr1_pt3)
+        Main.FormSetup(CR1_pt3)
     End Sub
 End Class

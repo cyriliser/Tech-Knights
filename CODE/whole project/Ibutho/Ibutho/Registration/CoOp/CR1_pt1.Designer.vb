@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class CR1
+Partial Class CR1_pt1
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -221,7 +221,7 @@ Partial Class CR1
         Me.Button2.Text = "cancel"
         Me.Button2.UseVisualStyleBackColor = True
         '
-        'CR1
+        'CR1_pt1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -247,7 +247,7 @@ Partial Class CR1
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
-        Me.Name = "CR1"
+        Me.Name = "CR1_pt1"
         Me.Text = "CR1"
         Me.ResumeLayout(False)
         Me.PerformLayout()

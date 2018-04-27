@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class BOD
+Partial Class CR1_pt3
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -252,7 +252,7 @@ Partial Class BOD
         Me.Button1.Text = "next"
         Me.Button1.UseVisualStyleBackColor = True
         '
-        'BOD
+        'CR1_pt3
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -282,7 +282,7 @@ Partial Class BOD
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
-        Me.Name = "BOD"
+        Me.Name = "CR1_pt3"
         Me.Text = "BOD"
         Me.ResumeLayout(False)
         Me.PerformLayout()

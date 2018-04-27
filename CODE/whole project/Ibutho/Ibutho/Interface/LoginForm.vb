@@ -38,4 +38,9 @@
     Private Sub PasswordTextBox_TextChanged(sender As System.Object, e As System.EventArgs) Handles PasswordTextBox.TextChanged
 
     End Sub
+
+    Private Sub LoginForm_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
+        UsernameTextBox.Text = "siya@gmail.com"
+        PasswordTextBox.Text = "qwerty"
+    End Sub
 End Class

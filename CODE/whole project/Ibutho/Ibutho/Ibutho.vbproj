@@ -73,6 +73,11 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Database\CustomerDS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CustomerDS.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Database\LoginDS.Designer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -117,16 +122,16 @@
     <Compile Include="Registration\CaptureCustomer.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Registration\CoOp\CR1_pt1.designer.vb">
+      <DependentUpon>CR1_pt1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Registration\CoOp\CR1_pt1.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Registration\CoOp\CR1_pt5.Designer.vb">
       <DependentUpon>CR1_pt5.vb</DependentUpon>
     </Compile>
     <Compile Include="Registration\CoOp\CR1_pt5.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Registration\CoOp\CR1_pt1.Designer.vb">
-      <DependentUpon>CR1_pt1.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Registration\CoOp\CR1_pt1.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Registration\CoOp\CR1_pt2.Designer.vb">
@@ -194,9 +199,23 @@
     <EmbeddedResource Include="Registration\CoOp\CR1_pt5.resx">
       <DependentUpon>CR1_pt5.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Registration\CoOp\CR5.resx">
+      <DependentUpon>CR5.vb</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="Database\CustomerDS.xsc">
+      <DependentUpon>CustomerDS.xsd</DependentUpon>
+    </None>
+    <None Include="Database\CustomerDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CustomerDS.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Database\CustomerDS.xss">
+      <DependentUpon>CustomerDS.xsd</DependentUpon>
+    </None>
     <None Include="Database\LoginDS.xsc">
       <DependentUpon>LoginDS.xsd</DependentUpon>
     </None>

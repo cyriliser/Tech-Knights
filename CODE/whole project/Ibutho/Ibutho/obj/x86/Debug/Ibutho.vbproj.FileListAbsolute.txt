@@ -7,12 +7,13 @@ D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x
 D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.Main.resources
 D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.Resources.resources
 D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.CaptureCustomer.resources
-D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.CR1.resources
 D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.CR1_pt2.resources
-D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.BOD.resources
-D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.CR1_pt4__Co_Op_Contact_Info_.resources
-D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.CR1_pt_5__Statistics_.resources
 D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.vbproj.GenerateResource.Cache
 D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.exe
 D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.xml
 D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.pdb
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.CR1_pt1.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.CR1_pt3.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.CR1_pt4.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.CR1_pt5.resources
+D:\BACK UP\CODE WORKSPACE\SCHOOL\ISTN 3AS\CODE\whole project\Ibutho\Ibutho\obj\x86\Debug\Ibutho.CR5.resources

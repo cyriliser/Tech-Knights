@@ -1,4 +1,4 @@
-﻿Public Class CR1_pt_5__Statistics_
+﻿Public Class CR1_pt5
 
     Private Sub Label11_Click(sender As System.Object, e As System.EventArgs) Handles Label11.Click
 
@@ -18,6 +18,6 @@
         'checks if cr5 document was submitted 
         'if submitted shows review of data
         'if not submited load cr5
-        'Main.FormSetup(CR5)
+        Main.FormSetup(CR5)
     End Sub
 End Class

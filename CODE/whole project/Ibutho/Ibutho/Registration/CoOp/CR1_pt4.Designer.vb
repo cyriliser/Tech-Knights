@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class CR1_pt4__Co_Op_Contact_Info_
+Partial Class CR1_pt4
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -206,7 +206,7 @@ Partial Class CR1_pt4__Co_Op_Contact_Info_
         Me.Button1.Text = "next"
         Me.Button1.UseVisualStyleBackColor = True
         '
-        'CR1_pt4__Co_Op_Contact_Info_
+        'CR1_pt4
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -231,8 +231,8 @@ Partial Class CR1_pt4__Co_Op_Contact_Info_
         Me.Controls.Add(Me.Label11)
         Me.Controls.Add(Me.Label10)
         Me.Controls.Add(Me.Label2)
-        Me.Name = "CR1_pt4__Co_Op_Contact_Info_"
-        Me.Text = "CR1_pt4__Co_Op_Contact_Info_"
+        Me.Name = "CR1_pt4"
+        Me.Text = "Co Op Contact Info"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

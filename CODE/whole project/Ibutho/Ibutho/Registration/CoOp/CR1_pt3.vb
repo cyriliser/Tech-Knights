@@ -1,4 +1,4 @@
-﻿Public Class BOD
+﻿Public Class CR1_pt3
 
     Private Sub Label3_Click(sender As System.Object, e As System.EventArgs) Handles Label3.Click
 
@@ -11,7 +11,7 @@
     Private Sub Button3_Click(sender As System.Object, e As System.EventArgs) Handles Button3.Click
         'writes data to the database
         'loads cr1 pt 4
-        'Main.FormSetup(cr1_pt4)
+        Main.FormSetup(CR1_pt4)
     End Sub
 
     Private Sub Button1_Click(sender As System.Object, e As System.EventArgs) Handles Button1.Click
